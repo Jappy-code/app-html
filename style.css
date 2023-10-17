@@ -1,0 +1,13 @@
+.paragraph1{
+    box-sizing: border-box;
+    width: 220px;
+    height: 220px;
+    border-top: 8px solid #000000;
+
+    padding:8px;
+    text-align: justify;
+
+    border-radius: 10px 50px 10px 30px;
+
+    background-image: linear-gradient(to right, #9285ff, #ff5566);
+}
